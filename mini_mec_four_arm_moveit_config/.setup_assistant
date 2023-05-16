@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: mini_mec_four_arm
+    relative_path: urdf/mini_mec_four_arm.urdf
+    xacro_args: ""
+  SRDF:
+    relative_path: config/mini_mec_four_arm.srdf
+  CONFIG:
+    author_name: passoni
+    author_email: passoni@163.com
+    generated_timestamp: 1624851586
